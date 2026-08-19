@@ -29,3 +29,5 @@ Most note-taking tools force a choice: rich block editing (Notion) *or* file por
 - **Language**: JavaScript/TypeScript throughout — main process, renderer, and plugin API
  
 See [`docs/ARCHITECTURE.md`](./docs/ARCHITECTURE.md) *(coming soon)* for the full core/plugin design and reasoning behind these choices.
+
+MADE BY VISHAL!
